@@ -1,0 +1,198 @@
+body {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    background-color: #ffffff;
+    }
+
+
+
+.navbar-brand {
+    position: relative;
+
+    background: url(../images/customLogo.png);
+    width: 170px;
+    left: 15px;
+    background-size: contain;
+}
+
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Open sans', sans-serif;
+
+}
+
+.navbar {
+    height: 80px;
+    margin: 0px;
+    margin-bottom:15px;
+    padding: 0px;
+    background-color:;
+    border-color:;
+}
+
+.navbar .nav .li{
+    text-align: top;
+
+}
+
+.nav li a{
+    line-height: 55px;
+}
+
+#myCarousel {
+    margin-top: 75px;
+
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+    background-image: #1a0000;
+}
+
+.heading {
+    text-align: left;
+    float: left;
+    font-family: 'Lato', sans-serif;
+ 	color: ##2d3c49;
+ 	word-break: keep-all;
+ 	position: relative;
+ 	top: 5px;
+ 	margin: 0;
+    padding: 0;
+}
+
+.zeropadding {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+h2 {
+    margin: 0px;
+    font-weight: bold;
+
+}
+
+.right {
+    float: right;
+    block: inline;
+}
+
+p {
+    font-size: 15px;
+}
+
+.logo {
+    float: left;
+    max-width: 100%;
+}
+
+.header {
+    padding: 15px;
+}
+
+/**bootstrap project css**/
+
+.navbar-brand {
+	font-size: 1.7em;
+}
+
+.carousel-inner{
+    height: 100%;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.left {
+    text-align: left;
+    float: left;
+}
+
+#topRow {
+	margin-top:	100px;
+	text-align: center;
+}
+
+#topRow h1 {
+	font-size: 60px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.marginTop {
+	margin-top: 30px;
+}
+
+.center {
+	text-align:center;
+}
+
+.title  {
+	margin-top: 25px;
+	font-size: 200%;
+}
+
+.marginBottom{
+    margin-bottom: 100px;
+
+}
+
+
+#footer {
+
+}
+
+
+
+/**
+
+h1{
+    font-size:50px;
+    margin:0px;
+    font-weight:200;
+}
+
+
+
+.box{
+    position:relative;
+    width: 33.333333%;
+    float:left;
+    height:250px;
+    padding:15px;
+    box-sizing:border-box;
+    text-align:center;
+    font-size:25px;
+    margin-bottom:50px;
+}
+
+.portfolio{
+    color:#7d97ad;
+    margin-top:25px;
+    margin-bottom:25px;
+    text-align:left;
+}
+
+
+@media screen and (max-width: 980px) {
+	.box{
+        width: 33.333333%;
+	}
+
+@media screen and (max-width: 768px) {
+	.box{
+        width: 100%;
+	}
